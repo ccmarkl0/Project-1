@@ -5,10 +5,11 @@ The following must be installed on your device
 1)nodejs
 2)Visual Studio Code
 3)mysql database
+4)Postman
 The following must be installed using nodejs
 1)body-parser
 2)expressjs
 3)mysql
 # Running
-
+To run the application open the terminal and type "node server.js" this will connect you to the database. From this point all objects within the database can be manipulated using postman.
 
