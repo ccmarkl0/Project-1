@@ -327,3 +327,4 @@ function changeData(req, res){
 //create table
 //"CREATE TABLE Students (fname VARCHAR(25), lname VARCHAR(25), id CHAR(8), year int(4), age int(3), major VARCHAR(25), gpa float(3))"
 //http://g2pc1.bu.edu/~qzpeng/manual/MySQL%20Commands.htm
+//Some parts are not finished
